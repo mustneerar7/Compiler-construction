@@ -1,0 +1,6 @@
+A=Aa|BAd|CB|i
+B=Bg|uC|C|zB|$
+C=AC|iD|UE|$
+D=EF|dD|iE|$
+E=Fg|mCv|vE|$
+F=FAi|ED|za|$
